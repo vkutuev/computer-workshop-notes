@@ -1,0 +1,6 @@
+# Собранные PDF курсов
+*.pdf
+!practicum/images/*.pdf
+
+# Сгенерированные asciidoctor-mathematical SVG формул
+practicum/images/stem-*.svg
